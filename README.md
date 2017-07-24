@@ -1,0 +1,2 @@
+# WeatherParser
+Parser for OpenWeatherMap
